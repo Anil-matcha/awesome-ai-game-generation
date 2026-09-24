@@ -118,6 +118,7 @@ Organizations actively building AI game generation products or foundational mode
 
 ## Learning Resources & Communities
 
+- [Awesome AI-Built Games](https://github.com/lappemic/awesome-ai-built-games) — Curated, link-checked list of playable games whose code was mostly written by AI coding agents, with the tools and engine behind each.
 - GitHub topic [`ai-game-development`](https://github.com/topics/ai-game-development) — actively populated, good source for finding new open-source projects as they appear.
 - GitHub topic [`game-generator`](https://github.com/topics/game-generator) — projects specifically generating playable games via AI/LLMs.
 - GitHub topic [`world-models`](https://github.com/topics/world-models) — research and open implementations of interactive world models.
