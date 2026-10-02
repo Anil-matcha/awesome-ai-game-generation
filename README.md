@@ -52,6 +52,7 @@ Tools where you describe a game in natural language and get a playable, shippabl
 - [Ludo.ai](https://ludo.ai/) — Ideation/research tool for game designers combining text/image generation with AI-powered market and trend search.
 - [the9bit](https://the9bit.com/) — AI game creation platform focused on rapid iterative prototyping.
 - [Promethean AI](https://www.prometheanai.com/) — AI co-creator for populating and building 3D game environments through natural-language commands.
+- [Whimcade](https://whimcade.com/) — Turns a one-paragraph description into a self-contained HTML5 browser game; supports natural-language iteration and publishing to a shared public arcade.
 
 ## AI 2D/3D Asset Generators
 
