@@ -58,6 +58,7 @@ Tools where you describe a game in natural language and get a playable, shippabl
 Purpose-built generators for game-ready art, textures, and 3D models (not full games).
 
 - [Meshy](https://www.meshy.ai/) — Covers the most steps of the 3D pipeline in one platform: text/image-to-3D, auto-rigging, and 500+ animation presets.
+- [Luphra](https://www.luphra.com/) — Prompt-to-matter: turn text/sketches into editable 3D and manufacturable physical products.
 - [Tripo3D](https://www.tripo3d.ai/) — Fast text/image-to-3D generation (~8s average) with topology auto-optimized for game engines and built-in character rigging.
 - [Luma AI / Genie](https://lumalabs.ai/) — Strong at photorealistic environment generation; Luma Genie is a fast, generous free tier for 3D prototyping.
 - [Scenario](https://www.scenario.com/) — Game-engine-aware asset generation built specifically for 2D game art and textures.
