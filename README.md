@@ -50,6 +50,7 @@ Tools where you describe a game in natural language and get a playable, shippabl
 - [Rosebud AI](https://rosebud.ai/) — The most mature prompt-to-game platform; generates playable 2D/3D games (Phaser-based) with an in-browser chat editor, exportable code, and free hosting. Best for fast arcade/prototype loops.
 - [Summer Engine](https://www.summerengine.com/) — In-engine AI agent for Godot 4 that builds the game with you; most generous free tier for a game you can actually ship to Steam.
 - [Ludo.ai](https://ludo.ai/) — Ideation/research tool for game designers combining text/image generation with AI-powered market and trend search.
+- [Playable Gift](https://playablegift.com) - Hosted service that uses AI to make small browser games from a sender's description of the recipient.
 - [the9bit](https://the9bit.com/) — AI game creation platform focused on rapid iterative prototyping.
 - [Promethean AI](https://www.prometheanai.com/) — AI co-creator for populating and building 3D game environments through natural-language commands.
 
