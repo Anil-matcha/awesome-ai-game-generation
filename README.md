@@ -51,6 +51,7 @@ Tools where you describe a game in natural language and get a playable, shippabl
 - [Summer Engine](https://www.summerengine.com/) — In-engine AI agent for Godot 4 that builds the game with you; most generous free tier for a game you can actually ship to Steam.
 - [Ludo.ai](https://ludo.ai/) — Ideation/research tool for game designers combining text/image generation with AI-powered market and trend search.
 - [the9bit](https://the9bit.com/) — AI game creation platform focused on rapid iterative prototyping.
+- [OhMyGame](https://www.ohmygame.ai/) — Open-source desktop studio where an AI agent designs games, generates assets, writes code, playtests, and publishes browser games; bring your own model providers.
 - [Promethean AI](https://www.prometheanai.com/) — AI co-creator for populating and building 3D game environments through natural-language commands.
 
 ## AI 2D/3D Asset Generators
