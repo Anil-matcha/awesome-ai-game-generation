@@ -52,6 +52,7 @@ Tools where you describe a game in natural language and get a playable, shippabl
 - [Ludo.ai](https://ludo.ai/) — Ideation/research tool for game designers combining text/image generation with AI-powered market and trend search.
 - [the9bit](https://the9bit.com/) — AI game creation platform focused on rapid iterative prototyping.
 - [Promethean AI](https://www.prometheanai.com/) — AI co-creator for populating and building 3D game environments through natural-language commands.
+- [Amplify](https://amplify.is/games) — Browser-based prompt-to-game tool; describe a small 2D game in plain language and get a playable HTML5 game hosted at its own shareable link.
 
 ## AI 2D/3D Asset Generators
 
