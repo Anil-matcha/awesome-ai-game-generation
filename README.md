@@ -52,6 +52,7 @@ Tools where you describe a game in natural language and get a playable, shippabl
 - [Ludo.ai](https://ludo.ai/) — Ideation/research tool for game designers combining text/image generation with AI-powered market and trend search.
 - [the9bit](https://the9bit.com/) — AI game creation platform focused on rapid iterative prototyping.
 - [Promethean AI](https://www.prometheanai.com/) — AI co-creator for populating and building 3D game environments through natural-language commands.
+- [VXLVERSE](https://vxlverse.com/) — Browser 3D story-game maker; builds a playable game (characters, dialogue, foes, an ending) from one sentence in procedural 3D places, then you edit it by walking inside it. Free tier.
 
 ## AI 2D/3D Asset Generators
 
